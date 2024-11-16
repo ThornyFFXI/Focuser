@@ -1,5 +1,5 @@
 # Focuser
-Focuser is an addon that allows you to use typed commands to swap between active FFXI proceseses, rather than using alt-tab.  It relies on a simple helper DLL to simplify the process of enumerating active process windows.  The source for the DLL is in this repository.
+Focuser is an addon that allows you to use typed commands to swap between active FFXI proceseses, rather than using alt-tab.  It relies on a simple helper DLL to simplify the process of enumerating active process windows.  The source for the DLL is in this repository.  Typical end users should download the release zip, rather than downloading the entire repository as zip, because they will not need the source code.
 
 ### Commands
 
